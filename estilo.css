@@ -1,0 +1,219 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* estruturas principais */
+
+body {
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	width:100%;
+	height:100%;
+	position:absolute;
+	background-color:#FFF;  background-image:url(fundo.jpg); background-repeat:no-repeat; background-position:center; background-position:top;
+}
+
+
+
+#tudo{
+	margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0px; width:100%; height:100%;}
+	
+.linhastotal{
+	width:100%; height:auto; margin-left:0px; margin-right:0px; clear:both;}
+	
+.linhasmeio{
+	width:900px; height:auto; display:block; overflow:hidden; clear:both; float:center; margin-left:auto; margin-right:auto;}	
+	
+.branco{
+	float:left;}
+	
+/* topo */
+
+#topo{
+	margin-left:0px; margin-right:0px; top:0px; display:block; overflow:hidden; width:100%; height:auto;}
+
+#cocal1{
+	width:195px; height:103px; background-color:transparent; float:left; display:block; overflow:hidden;}	
+	
+#marromforte{
+	width:900px; height:9px; float:left; display:block; overflow:hidden; clear:both; background-color:#996600;}			
+
+#cocal2{
+	width:195px; height:9px; background-color:transparent; float:left; display:block; overflow:hidden;}	
+	
+#cocal3{
+	width:238px; height:37px; background-color:transparent; float:left; display:block; overflow:hidden;}
+	
+#cocal4{
+	width:243px; height:56px; background-color:transparent; float:left; display:block; overflow:hidden;}	
+	
+#espacobranco{
+	width:900px; height:56px; float:left; display:block; overflow:hidden;}		
+	
+#marrommenu{
+	width:900px; height:37px; float:left; display:block; overflow:hidden; background-color:#CC9966;}
+
+/* menu de cima */	
+div.menu{
+	width:662px; height:37px; float:left; display:block; overflow:hidden; background-color:#CC9966;}
+	
+.menus{
+	width:110px; height:37px; display:block; overflow:hidden; float:left; text-align:center; line-height:37px;}
+	
+a.menuitens{
+	font-family:Verdana, Geneva, sans-serif; color:#000; text-decoration:none;}	
+	
+a.menuitens:link{
+	font-family:Verdana, Geneva, sans-serif; color:#000; text-decoration:none;}	
+	
+a.menuitens:hover{
+	font-family:Verdana, Geneva, sans-serif; color:#FFF; text-decoration:none;}	
+	
+a.menuitens:active{
+	font-family:Verdana, Geneva, sans-serif; color:#FFF; text-decoration:underline;}	
+	
+	
+/* paginas de conteudo */
+
+div.content{ width:900px; height:auto; min-height:695px; clear:both; overflow:hidden; display:block; float:center; margin-left:auto; margin-right:auto;}
+
+#espacoconteudo{
+	width:630px; height:auto; min-height:900px; float:left; display:inline; overflow:hidden; margin-left:20px;}	
+	
+#tituloconteudo{
+	width:630px; height:50px; float:left; display:block; overflow:hidden; font-family:Verdana, Geneva, sans-serif; font-size:18px;
+	color:#C90; text-indent:10px;}
+	
+.textoconteudo{
+	width:630px; height:auto; min-height:100px; float:left; display:block; text-align:justify; font-family:Verdana, Geneva, sans-serif;
+	color:#000; line-height:200%; font-size:14px; margin-bottom:80px;}		
+
+#riscodivisor{
+	width:1px; height:900px; float:left; display:inline; background-color:#000; margin-left:20px;}
+
+/* contato */
+ 
+ #contatocontainer{
+	 width:630px; height:400px; float:left; display:block;}
+	 
+ #contato{
+	 width:380px; height:380px; float:left; display:block; background-color:#CC9966; padding:10px; color:#FFFFFF;}
+	 
+.input{
+	width:350px;}	 	 
+
+.inputarea{
+	max-width:350px; min-width:350px; max-height:100px; min-heigth:100px;}
+	
+#escritascontato{
+	width:220px; height:350px; float:left; color:#000000; font-family:Verdana, Geneva, sans-serif; font-size:14px; text-align:left; padding-left:10px;}		
+
+
+
+ #mapa{
+	 width:600px; height:370px; float:left; display:block; padding:15px; background-color:#CC9966;}
+
+
+/* pagina inicial */
+
+#bannerprincipal{
+	width:626px; height:246px; float:left; display:block; overflow:hidden; border-width:2px; border-style:solid; border-color:#C93;}	
+	
+#containerprincipal1{
+	width:298px; height:500px; float:left; display:block;}
+#titulocontainerprincipal1{
+	width:298px; height:50px; float:left; display:block; font-family:Verdana, Geneva, sans-serif; text-align:left;
+	text-indent:10px; color:#C90; font-weight:bold;}
+	
+#textocontainerprincipal1{
+	width:298px; height:auto; float:left; clear:both; display:block; font-family:Verdana, Geneva, sans-serif; color:#000;
+	text-align:justify;}			
+	
+.divisor1{
+	height:10px; width:298px; float:left;}
+
+#containerprincipal2{
+	width:302px; height:500px; float:left; display:block;}
+	
+#titulocontainerprincipal2{
+	width:302px; height:50px; float:left; display:block; font-family:Verdana, Geneva, sans-serif; text-align:left;
+	text-indent:10px; color:#C90; font-weight:bold;}	
+	
+		
+	
+#divisorprincipal{
+	width:30px; height:500px; float:left;}	
+	
+	
+/* fotos de cada pagina */	
+
+#containerfotos{
+	width:630px; height:auto; min-height:120px; float:left; display:block; clear:both;}
+	
+#titulofotos{
+	width:630px; height:50px; float:left; display:block; overflow:hidden; font-family:Verdana, Geneva, sans-serif; font-size:18px;
+	color:#C90; text-indent:10px;}	
+
+.linhafotos{
+	width:630px; height:70px; float:left; display:block; overflow:hidden;}
+	
+#fotos{
+	width:85px; height:60px; float:left; border-width:5px; border-style:solid; border-color:#C90; margin:5px; display:inline;}	/* 10 a menos em cada lado */
+
+
+
+/* menu lateral */
+#menulateral{
+	width:229px; float:left; display:block; overflow:hidden; height:695px; background-color:#FFFFFF;}
+.titulomenulateral{
+	width:229px; float:left; display:block; height:22px; background-color:#CC9966; color:#000; text-align:left; text-indent:10px;
+	font-family:Verdana, Geneva, sans-serif; font-size:14px; font-weight:bold;}
+	
+.caixamenulateral{
+	width:229px; height:30px; line-height:30px; float:left; display:block; overflow:hidden; clear:both; text-align:left;
+	 text-indent:10px;}
+	
+a.itensmenulateral{
+	font-family:Verdana, Geneva, sans-serif; font-size:14px; color:#000; text-decoration:none;}
+	
+a.itensmenulateral:link{
+	font-family:Verdana, Geneva, sans-serif; font-size:14px; color:#000; text-decoration:none;}
+	
+a.itensmenulateral:hover{
+	font-family:Verdana, Geneva, sans-serif; font-size:14px; color:#C93; text-decoration:none;}
+	
+a.itensmenulateral:active{
+	font-family:Verdana, Geneva, sans-serif; font-size:14px; color:#C93; text-decoration:none;}
+	
+	
+	
+/* rodape */
+
+#rodape {
+	width:100%;
+	height:auto;
+	background-image:url(imagens/rodape.jpg);
+	background-repeat:repeat-x;
+	position:relative;
+	bottom:0;
+	clear:both;
+	}	
+		
+		
+.linksdepoimentos{
+	text-decoration:none; color:#000; font-family:Verdana, Geneva, sans-serif; font-size:14px;}		
+	
+.linksdepoimentos:link{
+	text-decoration:none; color:#000; font-family:Verdana, Geneva, sans-serif; font-size:14px;}	
+	
+.linksdepoimentos:hover{
+	text-decoration:underline; color:#000; font-family:Verdana, Geneva, sans-serif; font-size:14px;}
+	
+	
+/* titulos */
+
+.promocaokahena{
+	font-family:Verdana, Geneva, sans-serif; color:#C93; font-size:24px; text-align:left; text-indent:15px;
+	}	
+			
