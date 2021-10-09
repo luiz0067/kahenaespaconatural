@@ -1,0 +1,52 @@
+#blinds-cont {
+	width: 620px;
+	height: 300px;
+	margin-left:0px; margin-top:0px;
+}
+
+#blinds {
+	height: 300px;
+	width: 620px;
+	margin: 0 auto;
+}
+
+.floom_container {
+	overflow: hidden;
+	width:620px; height:300px;
+	
+}
+
+.floom_progressbar {
+	height: 3px;
+	background: #FFFFFF;
+	width: 0;
+	position: relative;
+	top: 2px;
+	z-index: 1000;
+	border-bottom: solid 1px #339;
+	font-size: 1px;
+}
+
+.floom_slice {
+	z-index: 10;
+	position: relative;
+}
+
+	
+.floom_vertical {
+	float: left;
+}
+
+.floom_horizontal {
+	
+}
+
+.floom_caption {
+	width: 100%;
+	position: relative;
+	text-align: center;
+	font-size: 1.0em;
+	color: #333;
+	text-shadow: 0 1px 0 #fff;
+	font-style: italic;
+}
