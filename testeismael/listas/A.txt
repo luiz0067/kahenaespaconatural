@@ -1,0 +1,16 @@
+
+<?php
+if(file_exists("usuarios/asdasd.txt")){
+echo "<br> <a href=suaconta.php?id=asdasd>asdasd</a>";
+}
+?>
+			<?php
+			if(file_exists("usuarios/asdasd.txt")){
+			echo "<br> <a href=suaconta.php?id=asdasd>asdasd</a>";
+			}
+			?>
+			<?php
+			if(file_exists("usuarios/wwwwwwwwwwww.txt")){
+			echo "<br> <a href=suaconta.php?id=wwwwwwwwwwww>wwwwwwwwwwww</a>";
+			}
+			?>

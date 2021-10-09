@@ -1,0 +1,21 @@
+
+			<?php
+			if(file_exists("usuarios/fdasdasdas.txt")){
+			echo "<br> <a href=suaconta.php?id=fdasdasdas>fdasdasdas</a>";
+			}
+			?>
+			<?php
+			if(file_exists("usuarios/fdasdasdas.txt")){
+			echo "<br> <a href=suaconta.php?id=fdasdasdas>fdasdasdas</a>";
+			}
+			?>
+			<?php
+			if(file_exists("usuarios/fdasdasdas.txt")){
+			echo "<br> <a href=suaconta.php?id=fdasdasdas>fdasdasdas</a>";
+			}
+			?>
+			<?php
+			if(file_exists("usuarios/fdasdasdas.txt")){
+			echo "<br> <a href=suaconta.php?id=fdasdasdas>fdasdasdas</a>";
+			}
+			?>

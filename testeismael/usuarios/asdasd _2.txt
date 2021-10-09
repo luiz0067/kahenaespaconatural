@@ -1,0 +1,10 @@
+
+				<?php
+				$senha="asdasd";
+				$nome="asasdasd";
+				$cpf="aasdasd";
+				$data="";
+				$mensagem2="<h3>De:</h3> asasdasd<h3>E-Mail:</h3>asdasd<h3>CPF:</h3>aasdasd<h3>Rua:</h3>asdasd<h3>Número:</h3>asdasd<h3>Bairro:</h3>asdasd<h3>Cidade:</h3>asdasd<h3>fone:</h3>asdasd<h3>2ª Mensagem:</h3>asdasdsad";
+				$fone="asdasd";
+				$cad="26/06/2012";
+				?>

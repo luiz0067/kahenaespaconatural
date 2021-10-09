@@ -1,0 +1,11 @@
+
+			<?php
+			$senha="paty";
+			$nome="Patricia";
+			$cpf="04452416918";
+			$data="";
+			$mensagem1="sfwsefawgf wer werf wefawer werf wef erfvf wer ae awe ef aerf ae aerf ";
+			$mensagem2="awer w4rwefa rg awe awer qer faef aer are555a ertafr 3ea er aera r faef 5ert erf argf areaer  er er";
+			$fone="32741259";
+			$cad="26/06/2012";
+			?>
